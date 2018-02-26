@@ -1,10 +1,10 @@
 title: Streamdata Gallery
-url: template.streamdata.gallery
-tag: Template
+url: federal-government.streamdata.gallery
+tag: Federal Government
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery
-github_repo: template
+github_repo: federal-government
 github_branch: master
 collections:
   listings:
